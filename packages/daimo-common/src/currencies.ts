@@ -17,6 +17,8 @@ export const currencyRateUSD: CurrencyExchangeRate = {
 const data: [string, string, string, number][] = [
   ["Euro", "€", "EUR", 2],
   ["Thai Baht", "฿", "THB", 2],
+  ["Malaysian Ringgit", "RM", "MYR", 2],
+  ["Indian Rupee", "₹", "INR", 2],
   ["Argentine Peso", "ARS", "ARS", 0],
   ["Bolivian Boliviano", "$Bs", "BOB", 0],
   ["Turkish Lira", "₺", "TRY", 0],
